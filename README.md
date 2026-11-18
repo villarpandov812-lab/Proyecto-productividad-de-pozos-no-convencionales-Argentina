@@ -1,5 +1,5 @@
 # Proyecto productividad de pozos no convencionales Argentina
-Proyecto final de EnergIA Digital - Data Science (Fundación YPF) Factores, predicción y recomendaciones
+#Proyecto final de EnergIA Digital - Data Science (Fundación YPF) Factores, predicción y recomendaciones
 Dataset
 
 Los datos son de la Secretaría de Energía de la Nación y se publican en el portal de datos abiertos Datos Energía (datos.energia.gob.ar): dataset "Producción de petróleo y gas por pozo (Capítulo IV)", archivo "Producción de Pozos de Gas y Petróleo No Convencional". Tiene 426.145 registros mensuales de 5.126 pozos y 55 empresas, de enero de 2006 a agosto de 2026. Unidades: petróleo y agua en m3, gas en miles de m3. El archivo original pesa 147 MB y no entra en GitHub; en este repositorio se incluye una versión comprimida (.csv.gz) con las mismas filas y columnas.
